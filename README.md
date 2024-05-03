@@ -1,0 +1,2 @@
+# EvaluateKazakSpeech
+Дипломная работа 
