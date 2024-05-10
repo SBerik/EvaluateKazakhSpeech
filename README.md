@@ -1,2 +1,2 @@
 # EvaluateKazakSpeech
-Дипломная работа 
+Pet-project
