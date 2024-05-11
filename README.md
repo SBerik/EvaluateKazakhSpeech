@@ -1,2 +1,3 @@
 # EvaluateKazakSpeech
-Pet-project
+Coursework
+
