@@ -1,5 +1,5 @@
 # EvaluateKazakSpeech
 
 
-![Описание изображения](pics/speakers.png)
+![Описание изображения](pics/evaluation-kazakh-speech.png)
 
