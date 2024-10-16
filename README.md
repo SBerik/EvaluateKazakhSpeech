@@ -1,3 +1,5 @@
 # EvaluateKazakSpeech
-Coursework
+
+
+![Описание изображения](pics/speakers.png)
 
