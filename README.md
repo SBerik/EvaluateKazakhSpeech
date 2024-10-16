@@ -1,3 +1,3 @@
-# MSU EvaluateKazakSpeech
+# EvaluateKazakSpeech
 Coursework
 
