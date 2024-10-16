@@ -3,3 +3,5 @@
 
 # virtual env
 /env  
+
+/notebooks/.ipynb_checkpoints
